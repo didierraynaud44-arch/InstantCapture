@@ -1,5 +1,13 @@
 # ![Capture de l'application](instantsprite.jpg)📸 InstantCapture
 
+# InstantCapture
+
+## 📱 Téléchargement
+[📲 Télécharger l'application (APK)](https://github.com/didierraynaud44-arch/InstantCapture/releases/tag/v1.0.0)
+
+## 📸 Capture d'écran
+![Aperçu de l'application](instantsprite.jpg)
+
 **InstantCapture** est une application Android destinée aux photographes permettant d'enregistrer rapidement des événements horodatés pendant une séance photo.
 
 Elle facilite le repérage des moments importants lors du tri des images dans Lightroom, Photo Mechanic, DxO PhotoLab ou tout autre logiciel de catalogage.
