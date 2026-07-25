@@ -86,25 +86,6 @@ Cette méthode est particulièrement utile pour :
 - Android Studio
 - Material Design 3
 
----
-
-## 📸 Capture d'écran
-
-Ajoutez ici une ou plusieurs captures d'écran de l'application.
-
-Exemple :
-
-```
-docs/screenshot.png
-```
-
-Puis dans ce README :
-
-```markdown
-![Capture de l'application](docs/screenshot.png)
-```
-
----
 
 ## 📄 Licence
 
