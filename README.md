@@ -1,4 +1,4 @@
-# ![Capture de l'application](instantsprite.jpg)📸 InstantCapture
+
 
 # InstantCapture
 
